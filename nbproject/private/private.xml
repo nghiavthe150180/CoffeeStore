@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/src/java/controller/forgotPswServlet.java</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/src/java/dal/ProductDao.java</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/web/Admin.jsp</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/src/java/controller/AccountDetail.java</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/web/Menu.jsp</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/src/java/controller/LoginServlet.java</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/src/java/dal/DBContext.java</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/web/menu-body.css</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/src/java/controller/thanhtoanServlet.java</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/web/menu-body.jsp</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/web/AccountDetail.jsp</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/web/UserTable.jsp</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/src/java/controller/UpdateServlet.java</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/web/style.css</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/web/Login.jsp</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/web/thanhtoan.jsp</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/src/java/controller/ThanhToanController.java</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/src/java/model/Orders.java</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/web/ProductTable.jsp</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/src/java/model/OrderDetails.java</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/web/header.jsp</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/web/ForgotPassword.jsp</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/src/java/model/Product.java</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/web/ProductDetail.jsp</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/src/java/controller/menuServlet.java</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/src/java/dal/OrderDetailsDao.java</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/web/Caphetainha.jsp</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/src/java/model/User.java</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/src/java/controller/ProductServlet.java</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/web/trangthanhtoan.jsp</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/src/java/controller/CapheServlet.java</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/src/java/dal/UserDao.java</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/web/trangthanhtoan.css</file>
+            <file>file:/C:/Users/duonn/OneDrive/Documents/NetBeansProjects/caphetainha/src/java/dal/OrdersDao.java</file>
+        </group>
+    </open-files>
+</project-private>

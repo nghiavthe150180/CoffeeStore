@@ -1,0 +1,363 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : May 2, 2023, 3:32:14 PM
+    Author     : admin
+*/
+
+header {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f2f2f2;
+  font-size: 16px;
+}
+
+.signup-container {
+  width: 500px;
+  margin: auto;
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+}
+
+.signup-container form {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+label {
+  font-size: 16px;
+  color: #555;
+  margin-bottom: 5px;
+  display: block;
+}
+
+input,
+textarea,
+select {
+  padding: 10px;
+  width: 100%;
+  font-size: 16px;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  box-sizing: border-box;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  border: 0;
+  background: #009688;
+  color: #fff;
+  font-size: 18px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #009e7f;
+}
+
+.form-group label {
+  display: inline-block;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+.form-group input[type="radio"] {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+.main-section {
+    max-width: 1200px;
+    margin: 0 auto;
+
+    padding-top: 100px;
+}
+
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-gap: 50px;
+}
+
+.product {
+  text-align: center;
+}
+
+.product img {
+  max-width: 100%;
+  height: auto;
+}
+
+.product h2 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.product p {
+  margin-bottom: 20px;
+}
+
+.product button {
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+header {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 9999;
+ margin-bottom: 10px; 
+}
+
+#dropdown {
+  display: none;
+  position: absolute;
+  top: 55px;
+  left: 1230px;
+  background-color: white;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+#dropdown a {
+  text-decoration: none;
+}
+
+#dropdown1 {
+  display: none;
+  position: absolute;
+  top: 55px;
+  left: 1230px;
+  background-color: white;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+#dropdown1 a {
+  text-decoration: none;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  padding: 20px;
+  flex-wrap: nowrap;
+}
+
+.logo img {
+  height: 50px;
+}
+
+header nav ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  flex-direction: row;
+}
+
+header  nav li {
+  margin-left: 20px;
+}
+
+header  nav {
+    margin-left: 50px;
+}
+
+header  nav li:first-child {
+    margin-left: 0;
+}
+
+header  nav li a {
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 1rem;
+}
+    
+header  nav li a:hover{
+    text-decoration: none;
+    color: #D46B08;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 1rem;
+}
+
+
+header  .user-info {
+    display: flex;
+    align-items: center;
+    margin-left: 820px;
+}
+
+.user-info img {
+    height: 30px;
+    margin-left: 20px;
+}
+
+header  img {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+}
+
+.product1 {
+    display: flex;
+    padding: 2rem;
+    margin: 0 auto;
+    padding-left: 100px;
+}
+
+.product1-image {
+
+}
+
+.product1-image img {
+    width: 570px;
+    height: 570px;
+}
+
+.product1-info {
+    width: 40%;
+    padding-left: 2rem;
+    height: 570px;
+}
+
+
+
+.product1-info h1 {
+    font-size: 2rem;
+}
+.product1-info p {
+    font-size: 0.8rem;
+    color: #777;
+}
+
+.product1-info h2 {
+    font-size: 1rem;
+    padding-top: 0.5rem; /* Half of 1rem */
+}
+
+.options1 {
+    padding-top: 0.5rem; /* Half of 1rem */
+}
+
+.product1-info select {
+    padding: 0.25rem; /* Half of 0.5rem */ 
+    border: 1px solid #777;
+}
+
+.product1 {
+  padding-top: 100px; 
+}
+
+
+.product1 input[type="checkbox"] {
+    margin-right: 0.5rem;
+}
+
+.product1 h2 {
+    color: #333;
+}
+
+.product1 button {
+    padding: 1rem;
+    border: none;
+    background: #333;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.coupon-input {
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.coupon-input p {
+    font-size: 0.8rem;
+    color: #777;
+    margin-right: 0.5rem;
+}
+
+.coupon-input input[type="text"] {
+    padding: 0.5rem;
+    border: 1px solid #777;
+}
+
+.product1-info * {   margin: 5px 0;   padding: 5px; }
+
+iframe {
+    width: 100%;
+    height: 100vh;
+}
+
+.tab {
+    padding: 6px 10px;
+    cursor: pointer;
+}
+
+
+iframe {
+    width: 100%;
+    height: 100vh;
+}
+
+.tab {
+    padding: 6px 10px;
+    cursor: pointer;
+}
+
+.tab.active {
+    background: #ccc;
+}
+
+header  button.tab{
+    
+    width: auto;
+    /* padding: 10px; */
+    border: 0;
+    background: #009688;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 3px;
+    cursor: pointer;
+
+}
+
+/* Add the following CSS rule to your existing CSS file */
+.header-container .cart {
+    position: relative;
+}
+
+.header-container .cart-count {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    padding: 3px 6px;
+    border-radius: 50%;
+}
